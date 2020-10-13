@@ -1,0 +1,3 @@
+Beating (cartoon) Heart code was utilized in Supplementary Movie 6. MATLAB projection of the desynchronization of cardiac organoid due to MCU inhibition by KB-R7943.
+https://ww2.mathworks.cn/matlabcentral/fileexchange/70206-beating-cartoon-heart
+Reference: Nathaniel Barlow (2020). Beating (cartoon) Heart (https://www.mathworks.com/matlabcentral/fileexchange/70206-beating-cartoon-heart), MATLAB Central File Exchange. Retrieved October 13, 2020.
